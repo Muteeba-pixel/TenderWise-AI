@@ -1,0 +1,9 @@
+streamlit
+PyMuPDF
+scikit-learn
+google-genai
+python-dotenv
+pydantic
+openai
+reportlab
+google-genai
